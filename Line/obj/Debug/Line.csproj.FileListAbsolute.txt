@@ -1,0 +1,6 @@
+C:\Users\dadoj\source\repos\oom\Encapsulation\Line\bin\Debug\Line.exe
+C:\Users\dadoj\source\repos\oom\Encapsulation\Line\bin\Debug\Line.pdb
+C:\Users\dadoj\source\repos\oom\Encapsulation\Line\obj\Debug\Line.csprojAssemblyReference.cache
+C:\Users\dadoj\source\repos\oom\Encapsulation\Line\obj\Debug\Line.csproj.CoreCompileInputs.cache
+C:\Users\dadoj\source\repos\oom\Encapsulation\Line\obj\Debug\Line.exe
+C:\Users\dadoj\source\repos\oom\Encapsulation\Line\obj\Debug\Line.pdb
