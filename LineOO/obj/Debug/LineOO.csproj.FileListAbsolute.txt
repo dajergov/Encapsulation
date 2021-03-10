@@ -1,0 +1,7 @@
+C:\Users\dadoj\source\repos\oom\Encapsulation\LineOO\bin\Debug\LineOO.exe.config
+C:\Users\dadoj\source\repos\oom\Encapsulation\LineOO\bin\Debug\LineOO.exe
+C:\Users\dadoj\source\repos\oom\Encapsulation\LineOO\bin\Debug\LineOO.pdb
+C:\Users\dadoj\source\repos\oom\Encapsulation\LineOO\obj\Debug\LineOO.csprojAssemblyReference.cache
+C:\Users\dadoj\source\repos\oom\Encapsulation\LineOO\obj\Debug\LineOO.csproj.CoreCompileInputs.cache
+C:\Users\dadoj\source\repos\oom\Encapsulation\LineOO\obj\Debug\LineOO.exe
+C:\Users\dadoj\source\repos\oom\Encapsulation\LineOO\obj\Debug\LineOO.pdb
